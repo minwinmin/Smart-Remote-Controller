@@ -1,0 +1,2 @@
+# Smart-Remote-Controller
+複数家電を操作できるジェスチャー操作可能なスマートリモコンをobnizでつくりました
